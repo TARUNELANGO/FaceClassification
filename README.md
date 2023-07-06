@@ -12,5 +12,5 @@ https://1829034.medium.com/face-recognition-using-vgg16-ff42a46135a7
 https://medium.com/@shikharsrivastava_14544/face-recognition-using-transfer-learning-with-vgg16-3caeca4a916e
 
 ## Result
-![]()
-![]()
+![](https://github.com/TARUNELANGO/FaceClassification/blob/main/Results/Nihaal.png)
+![](https://github.com/TARUNELANGO/FaceClassification/blob/main/Results/Tarun.png)
